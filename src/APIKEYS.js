@@ -1,0 +1,17 @@
+export const apiKey = 
+'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweERjZmNFY2E0QTkxMTg3Rjg3NjQ0YThGNmQzNkY0RGMzM2EyRDkyRTMiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY3NzY4MjUwODY2NSwibmFtZSI6Im1tbSJ9.7P47X7iSnswSrW2ZxnuDFbABc4gwEyOpp24_PuJ-VQw'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
